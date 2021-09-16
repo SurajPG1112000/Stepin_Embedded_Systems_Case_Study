@@ -15,4 +15,4 @@ To read the PWM output using CRO
 ![image](https://github.com/SurajPG1112000/Stepin_Embedded_Systems_Case_Study/blob/b7e66b154c47a056f56683456435bbd0482cc396/05_Images%20and%20Videos/Screenshot%20(3).png)
 
 
-![image]()
+![image](https://github.com/SurajPG1112000/Stepin_Embedded_Systems_Case_Study/blob/4927d3c3e9b7c520c434207378a79a534277efff/05_Images%20and%20Videos/Screenshot%20(4).png)
