@@ -1,4 +1,7 @@
 # Stepin_Embedded_Systems_Case_Study
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c44666ee7e45e685f7b8a2b887c7ce)](https://app.codacy.com/gh/SurajPG1112000/Stepin_Embedded_Systems_Case_Study?utm_source=github.com&utm_medium=referral&utm_content=SurajPG1112000/Stepin_Embedded_Systems_Case_Study&utm_campaign=Badge_Grade_Settings)
+
 The case study is divided into four activities:
  
  ## Activity 1  
