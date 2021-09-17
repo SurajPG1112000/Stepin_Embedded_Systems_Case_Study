@@ -16,3 +16,7 @@ To read the PWM output using CRO
 
 
 ![image](https://github.com/SurajPG1112000/Stepin_Embedded_Systems_Case_Study/blob/4927d3c3e9b7c520c434207378a79a534277efff/05_Images%20and%20Videos/Screenshot%20(4).png)
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/42c4db75e3424b3c8f4a32d6d88c1a41)](https://www.codacy.com/gh/SurajPG1112000/Stepin_Embedded_Systems_Case_Study/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SurajPG1112000/Stepin_Embedded_Systems_Case_Study&amp;utm_campaign=Badge_Grade)
